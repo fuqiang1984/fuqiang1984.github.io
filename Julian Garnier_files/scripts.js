@@ -26,7 +26,7 @@ window.onload = function() {
     'I\'m Qiang',
     'I design and code things on the web',
     'I\'m currently looking for full time web developer role.<br> You can contact me at <a href="mailto:john.fu1984@gmail.com">john.fu1984@gmail.com</a>',
-    'phone:02108337543<br><a target="_blank" href="https://https://www.linkedin.com/in/547557356">Linked in</a><br>',
+    'phone:021-08337543<br><a target="_blank" href="https://www.linkedin.com/in/547557356">Linked in</a><br>',
     getCurrentTime(),
     '👀 J.'
   ]
