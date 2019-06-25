@@ -23,7 +23,7 @@ window.onload = function() {
 
   var messages = [
     'Hey there 👋',
-    'I\'m John and I am currently wokring as a developer in Auckland City',
+    'I\'m John and I am currently working as a software developer in Auckland City',
     'I am good at C#.NET, React and Redux ',
     'I\'m currently looking for a software developer role.<br> You can contact me at <a href="mailto:john.fu1984@gmail.com">john.fu1984@gmail.com</a>',
     'phone:021-08337543<br><a target="_blank" href="https://www.linkedin.com/in/547557356">Linked in</a><br>',
